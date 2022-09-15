@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/iamvalion/stratum-theme/blob/main/images/readme-banner.png" alt="Stratum banner"></p>
+<p align="center"><img src="https://github.com/iamvalion/stratum-theme/blob/main/images/README-Banner.png" alt="Stratum banner"></p>
 
 <br>
 
