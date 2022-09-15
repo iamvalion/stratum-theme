@@ -25,11 +25,11 @@ $ git clone https://github.com/iamvalion/stratum-theme.git
 
 Light Mode (Landing):
 
-<img src="https://github.com/iamvalion/stratum-theme/blob/main/images/screenshot-landing-light.png" alt="Light mode screenshot" width="512px">
+<img src="https://github.com/iamvalion/stratum-theme/blob/main/images/Screenshots_Light_3240x1440.jpg" alt="Light mode screenshot">
 
-Dark Mode (Landing):
+Dark Mode:
 
-<img src="https://github.com/iamvalion/stratum-theme/blob/main/images/screenshot-landing-dark.png" alt="Dark mode screenshot" width="512px">
+<img src="https://github.com/iamvalion/stratum-theme/blob/main/images/Screenshots_Dark_3240x1440.jpg" alt="Dark mode screenshots">
 
 <br>
 
