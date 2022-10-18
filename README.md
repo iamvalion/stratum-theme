@@ -10,17 +10,6 @@ The theme is currently available in flat-file format and as a [Grav](https://get
 
 <br>
 
-## Installation
-
-It's as easy as downloading or cloning the repository into your web root:
-
-```
-$ cd /var/www
-$ git clone https://github.com/iamvalion/stratum-theme.git
-```
-
-<br>
-
 ## Screenshots
 
 Light Mode (Landing):
@@ -30,6 +19,23 @@ Light Mode (Landing):
 Dark Mode:
 
 <img src="https://github.com/iamvalion/stratum-theme/blob/main/images/Screenshots_Dark_3240x1440.jpg" alt="Dark mode screenshots">
+
+<br>
+
+## Demo
+
+Try out the theme for yourself on [the project's demo site](https://demo.valion.me/stratum-theme/).
+
+<br>
+
+## Installation
+
+It's as easy as downloading or cloning the repository into your web root:
+
+```
+$ cd /var/www
+$ git clone https://github.com/iamvalion/stratum-theme.git
+```
 
 <br>
 
