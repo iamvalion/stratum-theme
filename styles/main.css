@@ -192,12 +192,12 @@ span.navbar-item {
     text-align: center;
 }
 
-.navbar-dropdown:hover > span.navbar-item {
+.navbar-dropdown:hover > .navbar-item {
     border-radius: 8px 8px 0 0;
     background: var(--dark-color-3);
 }
 
-.navbar-dropdown:hover span.navbar-item + .navbar-dropdown-content {
+.navbar-dropdown:hover .navbar-item + .navbar-dropdown-content {
     display: block;
     padding: 0 16px;
     animation: fade-in 0.25s;
