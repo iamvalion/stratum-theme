@@ -1040,6 +1040,8 @@ input[type=button], input[type=reset], input[type=submit] {
     font-weight: 600;
     font-size: 14px;
     text-transform: uppercase;
+    cursor: pointer;
+    transition: box-shadow 0.25s, background 0.25s;
 }
 
 button {
