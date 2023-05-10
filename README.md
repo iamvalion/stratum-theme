@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Stratum is a simple but versatile website theme written in HTML, CSS, and JavaScript. This project came about when I decided that I wanted to test my front-end skills by coding a website theme from scratch. I think it's turned out to be pretty decent!
+Stratum is a simple flat-file blog theme written in HTML, CSS, and JavaScript. This project came about when I decided that I wanted to test my front-end skills by coding a website theme from scratch. I think it's turned out to be pretty decent!
 
 The theme is currently available in flat-file format and as a [Grav](https://getgrav.org) theme. Visit Stratum's [Grav theme repository](https://github.com/iamvalion/stratum-grav-theme) to revamp your Grav site's look and feel!
 
