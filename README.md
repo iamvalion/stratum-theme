@@ -4,19 +4,19 @@
 
 ## Introduction
 
-Stratum is a simple flat-file blog theme written in HTML, CSS, and JavaScript.
+Stratum is a simple flat-file blog theme written in HTML, CSS, and JavaScript. It comes with three different page templates - landing, feed, and post - and has both light and dark modes.
 
 <br>
 
-## Screenshots
+## Screen Shots
 
-Light Mode (Landing):
+Light Mode:
 
-<img src="https://github.com/iamvalion/stratum-theme/blob/main/images/Screenshots_Light_3240x1440.jpg" alt="Light mode screenshot">
+<img src="https://github.com/iamvalion/stratum-theme/blob/main/images/screen-shots-light--4344x1440.jpg" alt="Light mode screen shots">
 
 Dark Mode:
 
-<img src="https://github.com/iamvalion/stratum-theme/blob/main/images/Screenshots_Dark_3240x1440.jpg" alt="Dark mode screenshots">
+<img src="https://github.com/iamvalion/stratum-theme/blob/main/images/screen-shots-dark--4344x1440.jpg" alt="Dark mode screen shots">
 
 <br>
 
